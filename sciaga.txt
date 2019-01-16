@@ -1,0 +1,26 @@
+Szkolenie-GitHub
+
+git init - tworzy repozytorium w pustym katalogu
+git status - pokazuje stan repozytorium
+-- tworzymy nowy plik index.htm
+git add index.htm
+git status - pokazuje nowy plik w repozytorium
+git rm index.htm -- usuwa plik z repozytorium
+
+git commit "message"
+git log
+
+git stash 'opcjonalna nazwa stasha' -- przenosi aktualne zmiany w tymczasowe repozytorium na boku
+git stash pop --przywraca zmiany do lokalnego repozytorium
+
+git stash list --listuje zmiany odłożone na boku
+
+git add plik
+git commit "message"
+git push
+
+git clone ....
+zmiany w zdalnym reppozytorium
+git checkout
+git pull
+
