@@ -21,6 +21,15 @@ git push
 
 git clone ....
 zmiany w zdalnym reppozytorium
-git checkout
-git pull
+git checkout --pozwala tworzyc branche
+git pull     --sciaga  zmiany z repo
+
+git checkout -b tomek_branch  --tworzy nowego brancha
+git push origin tomek_branch
+
+na innym kompie
+git pull --na masterze sciaga wszystkie branche
+git checkout <nazwa brancha>
+
+
 
