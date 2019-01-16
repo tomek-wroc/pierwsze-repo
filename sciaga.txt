@@ -1,4 +1,4 @@
-Szkolenie-GitHub
+﻿Szkolenie-GitHub
 
 git init - tworzy repozytorium w pustym katalogu
 git status - pokazuje stan repozytorium
@@ -9,7 +9,7 @@ git rm index.htm -- usuwa plik z repozytorium
 
 git commit "message"
 git log
-
+glupoty
 git stash 'opcjonalna nazwa stasha' -- przenosi aktualne zmiany w tymczasowe repozytorium na boku
 git stash pop --przywraca zmiany do lokalnego repozytorium
 
